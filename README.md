@@ -1,161 +1,57 @@
-# Dogecoin Core [DOGE, Ð]
+# [Mining Pool Setup Service for Dogecoin [scrypt] or Any Other Coins of Your Choice or Troubleshoot Existing Pool](https://github.com/goodthebest/dogecoin/)
 
-![Dogecoin](https://static.tumblr.com/ppdj5y9/Ae9mxmxtp/300coin.png)
+## Contact Now & Let Us Get it Done For You Within Few Hours 
+#### _Whether you want to mine Dogecoin solo, private with your friends & family, even public or Nicehash, cloud mining etc. We have solution for all._
 
-[![Build Status](https://travis-ci.com/dogecoin/dogecoin.svg?branch=master)](https://travis-ci.com/dogecoin/dogecoin)
+- [x]   **Email:**  onlinebuybiz@gmail.com
 
-Dogecoin is a cryptocurrency like Bitcoin, although it does not use SHA256 as
-its proof of work (POW). Taking development cues from Tenebrix and Litecoin,
-Dogecoin currently employs a simplified variant of scrypt.
-- **Website:** [dogecoin.com.](https://dogecoin.com)
+- [x]  **Skype:**  add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
 
-## License – Much license ⚖️
-Dogecoin Core is released under the terms of the MIT license. See
-[COPYING](COPYING) for more information or see
-[opensource.org](https://opensource.org/licenses/MIT)
+- [x]  **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
 
-## Development and contributions – omg developers
-Development is ongoing, and the development team, as well as other volunteers,
-can freely work in their own trees and submit pull requests when features or
-bug fixes are ready.
+- [x]  **Telegram:** go to https://t.me/goodthebest **or** add `@goodthebest`
 
-#### Version strategy
-Version numbers are following ```major.minor.patch``` semantics.
+- [x] **BitcoinTalk:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
 
-#### Branches
-There are 3 types of branches in this repository:
+Build and Install Dogecoin (DOGE) Cryptocurrency Altcoins Mining Pool for Algorithm SCRYPT On Yiimp Multi Coins & Multi Algo Mining Pool Software
+----------------
 
-- **master:** Stable, contains the latest version of the latest *major.minor* release.
-- **maintenance:** Stable, contains the latest version of previous releases, which are still under active maintenance. Format: ```<version>-maint```
-- **development:** Unstable, contains new code for planned releases. Format: ```<version>-dev```
+We provide altcoin cryptocurrencies mining pool installation such as Dogecoin and creation services and you just sit back and let us take care of everything from scratch to finish that includes but not limited to 
 
-*Master and maintenance branches are exclusively mutable by release. Planned*
-*releases will always have a development branch and pull requests should be*
-*submitted against those. Maintenance branches are there for **bug fixes only,***
-*please submit new features against the development branch with the highest version.*
+- Installation of Dogecoin wallets/daemon and other coins of your choice for mining purpose
+- Setting up, configuring, administer and prepare server for yiiimp mining software to enable Dogecoin mining
+- Whether you want a solo, private mining pool for personal mining or a mining pool to share with your friends or public
+- You can set zero fees or even charge a fees to your miners
+- You can use your own equipment to mine such as GPU rigs, ASIC machines or even pool can be made compatiable for **Nicehash or MiningRigRentals MMR** mining if you want to use their hashpower.
+- It can be multi coin and multi algorithm mining pool as more coins can be added at any stage. 
+- We do privide maintence service although not much maintence is needed after pool is setup, if you do not touch any exisitng settings etc.
+- Configuration, troubleshooting of servers Linux/Ubuntu and existing pools, such as reject blocks, payouts not working, custom difficulty, vardiff, autoexchange, daemon and any other yiimp pool problems we can fix and make your pool running for smooth mining.
+- Optimize and Tweak server and yiimp software for improved performance.
+- Any special features or customization also possible at additional cost.
 
-#### Contributions ✍️
+How Does it Work?
+----------
+You will be required to get a server or VPS or cloud service like AWS instance etc or a server that can be obtained from several hosts online or if you have your very own server at your premises that can also be used to setup pool. For detailed minimum specifications and operating system that is usually Ubuntu/Linux, you need to contact us as it depends on several factors those can only be determined after discussing your mining needs.
 
-Developers are strongly encouraged to write [unit tests](src/test/README.md) for new code, and to
-submit new unit tests for old code. Unit tests can be compiled and run
-(assuming they weren't disabled in configure) with: `make check`. Further details on running
-and extending unit tests can be found in [/src/test/README.md](/src/test/README.md).
-
-There are also [regression and integration tests](/qa) of the RPC interface, written
-in Python, that are run automatically on the build server.
-These tests can be run (if the [test dependencies](/qa) are installed) with: `qa/pull-tester/rpc-tests.py`
-
-Changes should be tested by somebody other than the developer who wrote the
-code. This is especially important for large or high-risk changes. It is useful
-to add a test plan to the pull request description if testing the changes is
-not straightforward.
-
-## Very Much Frequently Asked Questions ❓
-
-### How much doge can exist? – So many puppies! 🐕
-Early 2015 (approximately a year and a half after release) there will be
-approximately 100,000,000,000 coins.
-Each subsequent block will grant 10,000 coins to encourage miners to continue to
-secure the network and make up for lost wallets on hard drives/phones/lost
-encryption passwords/etc.
+We can work remotely as well using **TeamViewer** or **AnyDesk** softwares, therefore, you do not need to provide us direct access to server. We can perform all  tasks in front of you. To get a price quote please contact us using above given contact details, we can discuss in real time.
 
 
-### Such mining information ⛏
+## [Other Supported Algorithms Pool Can Work With](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)
+![yiimp algos](https://www.sohowa.com/images/yiimpalgo.JPG)
+-----------
 
-Dogecoin uses a simplified variant of the scrypt key derivation function as its
-proof of work with a target time of one minute per block and difficulty
-readjustment after every block. The block rewards are fixed and halve every
-100,000 blocks. Starting with the 600,000th block, a permanent reward of
-10,000 Dogecoin per block will be issued.  
+### Just a sample frontend, your pool will be similar to it but of course with your choice of coins and algos
 
-Originally, a different payout scheme was envisioned with block rewards being
-determined by taking the maximum reward as per the block schedule and applying
-the result of a Mersenne Twister pseudo-random number generator to arrive at a
-number between 0 and the maximum reward.
+![yiimp installation, front page](https://www.sohowa.com/images/samplepool.jpg)
 
-This was changed starting with block 145,000, to prevent large pools from gaming
-the system and mining only high reward blocks. At the same time, the difficulty
-retargeting was also changed from four hours to once per block (every minute),
-implementing an algorithm courtesy of the DigiByte Coin development team, to
-lessen the impact of sudden increases and decreases of network hashing rate.
+Another sample page
+![yiimp installation](https://www.sohowa.com/images/samplepool2.jpg)
 
-**The current block reward schedule:**
+Admin side 
+![yiimp admin control section page 1](https://www.sohowa.com/images/admin1.jpg)
 
-1–99,999: 0–1,000,000 Dogecoin
+Admin side 
+![yiimp admin control section page 2](https://www.sohowa.com/images/admin2.jpg)
 
-100,000–144,999: 0–500,000 Dogecoin
-
-145,000–199,999: 250,000 Dogecoin
-
-200,000–299,999: 125,000 Dogecoin
-
-300,000–399,999: 62,500 Dogecoin
-
-400,000–499,999: 31,250 Dogecoin
-
-500,000–599,999: 15,625 Dogecoin
-
-600,000+: 10,000 Dogecoin
-
-**The original block reward schedule, with one-minute block targets and four-hour difficulty readjustment:**
-
-1–99,999: 0–1,000,000 Dogecoin
-
-100,000–199,999: 0–500,000 Dogecoin
-
-200,000–299,999: 0–250,000 Dogecoin
-
-300,000–399,999: 0–125,000 Dogecoin
-
-400,000–499,999: 0–62,500 Dogecoin
-
-500,000–599,999: 0–31,250 Dogecoin
-
-600,000+: 10,000 Dogecoin
-
-### Wow plz make dogecoind/dogecoin-cli/dogecoin-qt
-
-  The following are developer notes on how to build Dogecoin on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
-
-  - [OSX Build Notes](doc/build-osx.md)
-  - [Unix Build Notes](doc/build-unix.md)
-  - [Windows Build Notes](doc/build-windows.md)
-
-### Such ports
-
-- RPC 22555
-- P2P 22556
-
-## Development tips and tricks
-
-**compiling for debugging**
-
-Run `configure` with the `--enable-debug` option, then `make`. Or run `configure` with
-`CXXFLAGS="-g -ggdb -O0"` or whatever debug flags you need.
-
-**debug.log**
-
-If the code is behaving strangely, take a look in the debug.log file in the data directory;
-error and debugging messages are written there.
-
-The `-debug=...` command-line option controls debugging; running with just `-debug` will turn
-on all categories (and give you a very large debug.log file).
-
-The Qt code routes `qDebug()` output to debug.log under category "qt": run with `-debug=qt`
-to see it.
-
-**testnet and regtest modes**
-
-Run with the `-testnet` option to run with "play dogecoins" on the test network, if you
-are testing multi-machine code that needs to operate across the internet.
-
-If you are testing something that can run on one machine, run with the `-regtest` option.
-In regression test mode, blocks can be created on-demand; see qa/rpc-tests/ for tests
-that run in `-regtest` mode.
-
-**DEBUG_LOCKORDER**
-
-Dogecoin Core is a multithreaded application, and deadlocks or other multithreading bugs
-can be very difficult to track down. Compiling with `-DDEBUG_LOCKORDER` (`configure
-CXXFLAGS="-DDEBUG_LOCKORDER -g"`) inserts run-time checks to keep track of which locks
-are held, and adds warnings to the debug.log file if inconsistencies are detected.
+Admin side 
+![yiimp admin control section page 3](https://www.sohowa.com/images/admin3.jpg)
