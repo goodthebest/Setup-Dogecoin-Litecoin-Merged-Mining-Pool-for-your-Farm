@@ -1,7 +1,7 @@
 # [Mining Pool Setup Service for Dogecoin [scrypt] or Any Other Coins of Your Choice or Troubleshoot Existing Pool](https://github.com/goodthebest/dogecoin/)
 
-## Contact Now & Let Us Get it Done For You Within Few Hours 
-#### _Whether you want to mine Dogecoin solo, private with your friends & family, even public or Nicehash, cloud mining etc. We have solution for all._
+## Contact Now & Let Us Get Dogecoin Pool Setup For You Within Few Hours 
+#### _Whether you want to mine Dogecoin solo, private with your friends & family, even public or Nicehash/MMR, cloud mining etc. We have solution for all._
 
 - [x]   **Email:**  onlinebuybiz@gmail.com
 
