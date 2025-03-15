@@ -37,21 +37,6 @@ We can work remotely as well using **TeamViewer** or **AnyDesk** softwares, ther
 
 
 ## [Other Supported Algorithms Pool Can Work With](https://github.com/goodthebest/Install-Setup-Yiimp-Mining-Pool-Software-Ubuntu-Linux)
-![yiimp algos](https://www.sohowa.com/images/yiimpalgo.JPG)
 -----------
 
-### Just a sample frontend, your pool will be similar to it but of course with your choice of coins and algos
 
-![yiimp installation, front page](https://www.sohowa.com/images/samplepool.jpg)
-
-Another sample page
-![yiimp installation](https://www.sohowa.com/images/samplepool2.jpg)
-
-Admin side 
-![yiimp admin control section page 1](https://www.sohowa.com/images/admin1.jpg)
-
-Admin side 
-![yiimp admin control section page 2](https://www.sohowa.com/images/admin2.jpg)
-
-Admin side 
-![yiimp admin control section page 3](https://www.sohowa.com/images/admin3.jpg)
