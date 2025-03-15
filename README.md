@@ -1,4 +1,4 @@
-# [Mining Pool Setup Service for Dogecoin [scrypt] / can be Merged Mined with LTC same hash [litecoin mweb supported](https://github.com/goodthebest/dogecoin/)
+# [Mining Pool Setup Service for Dogecoin [scrypt] / can be Merged Mined with LTC same hash [litecoin mweb supported](https://github.com/goodthebest/Setup-Dogecoin-Litecoin-Merged-Mining-Pool-for-your-Farm)
 
 ## Contact Now & Let Us Get Dogecoin/Litecoin Merged Mining Pool Setup For You Within Few Hours 
 #### _Whether you want to mine Dogecoin solo, private with your friends & family, even public or Nicehash/MMR, cloud mining etc. We have solution for all._
