@@ -7,9 +7,9 @@
 
 - [x]  **Skype:**  add this email `onlinebuybiz@gmail.com` in your skype search and you will see **theonly-1**
 
-- [x]  **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
+- [x]  **Discord:** `goodthebest` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest`) and press **Send Friend Request** button.
 
-- [x]  **Telegram:** go to https://t.me/goodthebest
+- [x]  **Telegram:** go to https://t.me/goodthebest use the link only, do not use telegram search to avoid adding impersonated ids.
 
 - [x] **BitcoinTalk:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
 
