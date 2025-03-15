@@ -1,6 +1,6 @@
-# [Mining Pool Setup Service for Dogecoin [scrypt] or Any Other Coins of Your Choice or Troubleshoot Existing Pool](https://github.com/goodthebest/dogecoin/)
+# [Mining Pool Setup Service for Dogecoin [scrypt] / can be Merged Mined with LTC same hash [litecoin mweb supported](https://github.com/goodthebest/dogecoin/)
 
-## Contact Now & Let Us Get Dogecoin Pool Setup For You Within Few Hours 
+## Contact Now & Let Us Get Dogecoin/Litecoin Merged Mining Pool Setup For You Within Few Hours 
 #### _Whether you want to mine Dogecoin solo, private with your friends & family, even public or Nicehash/MMR, cloud mining etc. We have solution for all._
 
 - [x]   **Email:**  onlinebuybiz@gmail.com
@@ -9,11 +9,11 @@
 
 - [x]  **Discord:** `goodthebest#6606` Open your Discard and go to **Friends** and then **Add Friend** (add `goodthebest#6606`) and press **Send Friend Request** button.
 
-- [x]  **Telegram:** go to https://t.me/goodthebest **or** add `@goodthebest`
+- [x]  **Telegram:** go to https://t.me/goodthebest
 
 - [x] **BitcoinTalk:** To send Inbox message [click here](https://bitcointalk.org/index.php?action=pm;sa=send;u=1782856)
 
-Build and Install Dogecoin (DOGE) Cryptocurrency Altcoins Mining Pool for Algorithm SCRYPT On Yiimp Multi Coins & Multi Algo Mining Pool Software
+Build and Install Dogecoin (DOGE) and Litecoin Merged Mining Pool AuxPOW Cryptocurrency Altcoins Mining Pool for Algorithm SCRYPT On Yiimp Multi Coins & Multi Algo Mining Pool Software
 ----------------
 
 We provide altcoin cryptocurrencies mining pool installation such as Dogecoin and creation services and you just sit back and let us take care of everything from scratch to finish that includes but not limited to 
