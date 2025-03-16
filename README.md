@@ -18,7 +18,7 @@ Build and Install Dogecoin (DOGE) and Litecoin Merged Mining Pool AuxPOW Cryptoc
 
 We provide altcoin cryptocurrencies mining pool installation such as Dogecoin and creation services and you just sit back and let us take care of everything from scratch to finish that includes but not limited to 
 
-- Installation of Dogecoin wallets/daemon and other coins of your choice for mining purpose
+- Installation of Litecoin/Dogecoin wallets/daemon and other coins of your choice for mining purpose
 - Setting up, configuring, administer and prepare server for yiiimp mining software to enable Dogecoin mining
 - Whether you want a solo, private mining pool for personal mining or a mining pool to share with your friends or public
 - You can set zero fees or even charge a fees to your miners
