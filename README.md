@@ -16,10 +16,10 @@
 Build and Install Dogecoin (DOGE) and Litecoin Merged Mining Pool AuxPOW Cryptocurrency Altcoins Mining Pool for Algorithm SCRYPT On Yiimp Multi Coins & Multi Algo Mining Pool Software
 ----------------
 
-We provide altcoin cryptocurrencies mining pool installation such as Dogecoin and creation services and you just sit back and let us take care of everything from scratch to finish that includes but not limited to 
+We provide Litecoin/Doge and even Bellscoin combined merged mining pool installation. You just sit back and let us take care of everything from scratch to finish that includes but not limited to 
 
-- Installation of Litecoin/Dogecoin wallets/daemon and other coins of your choice for mining purpose
-- Setting up, configuring, administer and prepare server for yiiimp mining software to enable Dogecoin mining
+- Installation of Litecoin/Dogecoin/Bellscoin wallets/daemon and other coins of your choice for mining purpose
+- Setting up, configuring, administer and prepare server for yiiimp mining software to enable Dogecoin/Litecoin mining
 - Whether you want a solo, private mining pool for personal mining or a mining pool to share with your friends or public
 - You can set zero fees or even charge a fees to your miners
 - You can use your own equipment to mine such as GPU rigs, ASIC machines or even pool can be made compatiable for **Nicehash or MiningRigRentals MMR** mining if you want to use their hashpower.
